@@ -11,7 +11,7 @@ This repository provides a detailed system design for a **high-traffic flash sal
 ---
 
 ## 🏗 Architecture Diagram
-!Flash Sale Architecture
+![Flash Sale Architecture](image.png)
 
 ---
 
